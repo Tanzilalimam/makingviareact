@@ -12,6 +12,11 @@
     margin: 0 auto;
     max-width: 1280px;
 }
+.dtls{
+    background: url('./assets/img/review.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 
 

@@ -5,6 +5,8 @@ import Destination1 from "./components/destination1/Destination1"
 import Booking from "./components/booking/Booking"
 import Spackage from "./components/spackage/Spackage"
 import Memory from "./components/memory/Memory"
+import Destination2 from "./components/destination2/Destination2"
+import Details from "./components/details/Details"
 
 function App() {
 
@@ -17,6 +19,8 @@ function App() {
       <Booking></Booking>
       <Spackage></Spackage>
       <Memory></Memory>
+      <Destination2></Destination2>
+      <Details></Details>
     </>
   )
 }
