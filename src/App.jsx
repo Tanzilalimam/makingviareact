@@ -7,6 +7,7 @@ import Spackage from "./components/spackage/Spackage"
 import Memory from "./components/memory/Memory"
 import Destination2 from "./components/destination2/Destination2"
 import Details from "./components/details/Details"
+import Subscribtion from "./components/subscribtion/Subscribtion"
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
       <Memory></Memory>
       <Destination2></Destination2>
       <Details></Details>
+      <Subscribtion></Subscribtion>
     </>
   )
 }
